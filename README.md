@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 me chamo gabriel luis, sou um programador iniciante
 
 <!--
